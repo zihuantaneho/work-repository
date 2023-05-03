@@ -1,0 +1,10 @@
+#audio files
+*.aac
+*.mp3
+
+#video files
+*.mp4
+*.avi
+
+#executable
+*.exe
